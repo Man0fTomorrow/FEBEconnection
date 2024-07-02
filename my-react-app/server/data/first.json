@@ -1,0 +1,28 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "text": "Hello, this is the first message!"
+    },
+    {
+      "id": 2,
+      "text": "Here's another message for you."
+    },
+    {
+      "text": "This is the third message",
+      "id": 3
+    },
+    {
+      "text": "Fourth",
+      "id": 4
+    },
+    {
+      "text": "Fif",
+      "id": 5
+    },
+    {
+      "text": "Sixth",
+      "id": 6
+    }
+  ]
+}
