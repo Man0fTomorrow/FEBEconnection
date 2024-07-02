@@ -6,7 +6,7 @@ to start, you need two seperate console windows open. One for the backend and on
 
 -cd into the server and run npm run dev
 
--cd in the may folder and run npm run dev
+-cd in the main folder and run npm run dev
 
 open the browser to visit the VITE site on localhost:5173
 
